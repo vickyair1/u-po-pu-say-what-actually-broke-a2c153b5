@@ -12,12 +12,12 @@ on [make.fun](https://make.fun).
 
 ## The line
 
-> The server ran out of memory and forgot everything you just typed. Start over, and save early this time. It forgets fast.
+> The server ran out of memory and forgot your work, your name, and why it started. Start over, save early, and introduce yourself.
 
-121 characters. It names the real failure (the server ran out of memory, so
+129 characters. It names the real failure (the server ran out of memory, so
 the work was never saved), tells the user what to do next (start over, save
-early), and the punchline — a server that forgets fast — is the image a user
-repeats to a colleague.
+early), and the punchline — a server that forgot even why it started, so you
+have to introduce yourself — is the image a user repeats to a colleague.
 
 ## Run
 
